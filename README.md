@@ -1,11 +1,12 @@
 **Hello there!** <img src="https://slackmojis.com/emojis/6927-blob_sweats/download" width="25"/>
 
-I'm **Kumasi**, a software engineer, UI/UX Designer, Digital Illustrator, and aspiring Game Dev.
+I'm **Kumasi**, a Software Engineer, UI/UX Designer, Digital Illustrator, and aspiring Game Dev.
 I'm fascinated by advancements in tech and AI (as long as it's not stealing anyone's job...XD).
 
 I'm a huge fan of **Kendrick Lamar** and I have a **manhwa** addiction... it's a really big problem. I play mobile FPS games for fun and sometimes doodle in Ibis or make some outfit designs.
 
 Currently enrolled in University trying to bag my BSc in Computer Science 
+
 **Let's Connect**
 
 [<img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://x.com/abuelosolos)
